@@ -1,6 +1,6 @@
  Procurement Spend Analytics & Supplier Performance Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://supplier-procurement-analytics-yqde9najspiglstrhdh36g.streamlit.app/) 🔗 **[🚀 Click Here to Launch Live Interactive Dashboard](https://supplier-procurement-analytics-yqde9najspiglstrhdh36g.streamlit.app/)**
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://supplier-procurement-analytics-yqde9najspiglstrhdh36g.streamlit.app/) 🔗 **[ Click Here to Launch Live Interactive Dashboard](https://supplier-procurement-analytics-yqde9najspiglstrhdh36g.streamlit.app/)**
 
 An end-to-end data analytics and business intelligence solution designed to segment suppliers, assess vendor performance, and optimize multi-billion-dollar procurement operations using **ABC Spend Analysis**, **Multi-Criteria Scoring**, and **Unsupervised K-Means Machine Learning**.
 
