@@ -1,4 +1,4 @@
-# 📊 Procurement Spend Analytics & Supplier Performance Dashboard
+ Procurement Spend Analytics & Supplier Performance Dashboard
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://supplier-procurement-analytics-yqde9najspiglstrhdh36g.streamlit.app/) 🔗 **[🚀 Click Here to Launch Live Interactive Dashboard](https://supplier-procurement-analytics-yqde9najspiglstrhdh36g.streamlit.app/)**
 
@@ -52,7 +52,7 @@ This project processes **$129.15 Billion** across **8,632 suppliers** to deliver
 
 ---
 
-## 🧪 Analytical Methodologies & What They Mean
+ Analytical Methodologies & What They Mean
 
 ### **1. ABC Analysis (Spend Segmentation)**
 * **Methodology:** Application of Pareto’s 80/20 rule to categorize inventory/vendors based on total spend.
@@ -72,7 +72,7 @@ This project processes **$129.15 Billion** across **8,632 suppliers** to deliver
 
 ---
 
-## 📈 Key Findings & Insights
+ Key Findings & Insights
 
 * **Total Analyzed Scope:** **$129.15 Billion** across **8,632 unique suppliers**.
 * **Spend Concentration:** **87.4%** of total procurement capital is held by **Class A** vendors (285 vendors), confirming a concentrated vendor dependence.
@@ -80,7 +80,7 @@ This project processes **$129.15 Billion** across **8,632 suppliers** to deliver
 
 ---
 
-## 💻 Tech Stack & Dependencies
+ Tech Stack & Dependencies
 
 * **Language:** Python 3.13
 * **Data Manipulation:** `pandas`, `numpy`
