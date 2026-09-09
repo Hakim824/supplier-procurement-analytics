@@ -6,7 +6,7 @@ An end-to-end data analytics and business intelligence solution designed to segm
 
 ---
 
-## 🖼️ Executive Dashboard Preview
+ Executive Dashboard Preview
 
 | **Interactive Overview & KPI Summary** | **Master Performance & Segmentation Matrix** |
 | :---: | :---: |
@@ -14,7 +14,7 @@ An end-to-end data analytics and business intelligence solution designed to segm
 
 ---
 
-## 🎯 Business Problem & Purpose
+ Business Problem & Purpose
 
 Enterprise procurement departments often manage thousands of vendor relationships with billions of dollars in active spend. Without structured data pipelines and analytics:
 1. **Capital Risk:** High-spend suppliers remain unmonitored for delivery and quality performance.
@@ -25,7 +25,7 @@ This project processes **$129.15 Billion** across **8,632 suppliers** to deliver
 
 ---
 
-## 🛠️ Step-by-Step Implementation Procedure
+ Step-by-Step Implementation Procedure
 
 ### **Step 1: Data Synthesis & Master Consolidation**
 * **Script:** `generate_master_data.py`
